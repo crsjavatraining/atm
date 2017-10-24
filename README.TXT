@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Írjon egy Bankautomata nevű osztályt az alábbi két konstruktorral: Public Bankautomata() Public Bankautomata(int kezdoosszeg) Ezáltal a Bankautomata() egy üres automatát hoz létre és Bankautomata(osszeg) egy automatát  aminek az ”osszeg”-e elérhető számunkra.   A „Public void feltoltes (int osszeg) „ nevű metódussal meg tudjuk tolteni az automatát azáltal hogy  az automatában elérhető „osszeg”-et növeljük.   A „Public int osszegmutatas()” metódussal le tudjuk kérni mennyi pénzünk van a bankban és a „Public int felvetel(int osszeg)” metódussal pénzt tudunk felvenni azaz csökken a az elérhető „osszeg” de csak akkor ha az elérhető összegnél kevesebbet vagy egyenlő mennyiséget veszünk fel.
